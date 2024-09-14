@@ -27,17 +27,16 @@ struct Messages: View {
         ),
     ]
     var body: some View {
-        ForEach(
-            messages,
-            content: { data in
-                GreetingsText(
-                    text: data.text,
-                    color: data.color
-                )
-            }
-        )
+        VStack(alignment: .leading) {
+            ForEach(
+                messages,
+                content: { data in
+                    GreetingsText(
+                        text: data.text,
+                        color: data.color
+                    )
+                }
+            )
+        }
     }
 }
-
-
-

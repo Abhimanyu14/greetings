@@ -35,6 +35,6 @@ struct GreetingsText: View {
                     blue: Double(Int.random(in: 0..<255)) / 255
                 ).opacity(0.4)
             }
-            .padding(8)
+            .padding(4)
     }
 }

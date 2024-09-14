@@ -1,7 +1,46 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
+    "English" : {
 
+    },
+    "header_subtitle" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exploring iOS"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Explorando iOS"
+          }
+        }
+      }
+    },
+    "header_title" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Greetings"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saludos"
+          }
+        }
+      }
+    },
+    "Spanish" : {
+
+    }
   },
   "version" : "1.0"
 }

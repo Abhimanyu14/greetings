@@ -1,3 +1,10 @@
+//
+//  HeaderText.swift
+//  Greetings
+//
+//  Created by Abhimanyu on 09/08/24.
+//
+
 import SwiftUI
 
 struct HeaderText: View {
